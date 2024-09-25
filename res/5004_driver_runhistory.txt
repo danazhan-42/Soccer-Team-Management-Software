@@ -1,0 +1,47 @@
+/Users/danaup/Library/Java/JavaVirtualMachines/corretto-11.0.19/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=53714:/Applications/IntelliJ IDEA CE.app/Contents/bin -Dfile.encoding=UTF-8 -classpath /Users/danaup/OneDrive - Northeastern University/Microsoft Teams Chat Files/5004/SoccerTeam/out/production/SoccerTeam soccerteam.Driver
+Here are the 10 team members:
+Abby Aaron, Jersey Number: 1
+Beth Brown, Jersey Number: 2
+Catherine Cole, Jersey Number: 3
+Dave Davis, Jersey Number: 4
+Elva Edwards, Jersey Number: 5
+Fiona Fisher, Jersey Number: 6
+Gigi Gomez, Jersey Number: 7
+Henry Hayes, Jersey Number: 8
+Ivy Irwin, Jersey Number: 9
+Jack Jackson, Jersey Number: 10
+
+Here are the starting lineup:
+Abby Aaron, Jersey Number: 1, Position: GOALIE
+Beth Brown, Jersey Number: 2, Position: DEFENDER
+Gigi Gomez, Jersey Number: 7, Position: DEFENDER
+Catherine Cole, Jersey Number: 3, Position: MIDFIELDER
+Dave Davis, Jersey Number: 4, Position: MIDFIELDER
+Elva Edwards, Jersey Number: 5, Position: MIDFIELDER
+Fiona Fisher, Jersey Number: 6, Position: FORWARD
+
+Cannot display team since there are not enough players to form the team.
+
+Here are the new 10 team members:
+Beth Brown, Jersey Number: 2
+Catherine Cole, Jersey Number: 3
+Dave Davis, Jersey Number: 4
+John Doe, Jersey Number: 1
+Elva Edwards, Jersey Number: 5
+Fiona Fisher, Jersey Number: 6
+Gigi Gomez, Jersey Number: 7
+Henry Hayes, Jersey Number: 8
+Ivy Irwin, Jersey Number: 9
+Jack Jackson, Jersey Number: 10
+
+Here are the new starting lineup:
+Beth Brown, Jersey Number: 2, Position: GOALIE
+John Doe, Jersey Number: 1, Position: DEFENDER
+Gigi Gomez, Jersey Number: 7, Position: DEFENDER
+Catherine Cole, Jersey Number: 3, Position: MIDFIELDER
+Dave Davis, Jersey Number: 4, Position: MIDFIELDER
+Elva Edwards, Jersey Number: 5, Position: MIDFIELDER
+Fiona Fisher, Jersey Number: 6, Position: FORWARD
+
+
+Process finished with exit code 0
